@@ -27,6 +27,4 @@ This is my Arch Linux post-install configuration, which includes all the program
 5. **zapret.sh**: Script by Snowy-Fluffy that quickly installs `zapret`. It is used to unblock YouTube, Discord, Rutracker, etc., in Russia. I use the 22nd strategy, by the way.
 6. **general.sh**: Includes all the scripts from this list.
 
-All the `.sh` files are executable; you don't need to run `chmod +x ...` on these.
-
 If you wanna contact me, write to email `kirillikaaxx@gmail.com` 
