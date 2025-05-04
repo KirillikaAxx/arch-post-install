@@ -19,7 +19,6 @@ This is my Arch Linux post-install configuration, which includes all the program
    - `cmatrix`: Hacker matrix written in C.
    - `asciiquarium`: Aquarium in your terminal.
    - `mc`: Mouse-less terminal-based file explorer.
-   - `doas`: `sudo` analogue.
    - `helix`: Console text editor (somewhat similar to Vim/Neovim).
    - `micro`: Console text editor, better than classical Nano.
    - `gcc`: Compiler for C/C++/D from the GNU project.
