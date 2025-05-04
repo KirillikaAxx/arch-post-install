@@ -25,5 +25,6 @@ This is my Arch Linux post-install configuration, which includes all the program
 4. **shell.sh**: Installs `fish` as the default command shell (instead of `bash`).
 5. **zapret.sh**: Script by Snowy-Fluffy that quickly installs `zapret`. It is used to unblock YouTube, Discord, Rutracker, etc., in Russia. I use the 22nd strategy, by the way.
 6. **general.sh**: Includes all the scripts from this list.
+7. **bin/sudo-no-passwd**: Removes the need to enter the root password for the specified user. Written in C.
 
 If you wanna contact me, write to email `kirillikaaxx@gmail.com` 
