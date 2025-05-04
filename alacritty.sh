@@ -1,4 +1,4 @@
 #!/bin/bash
 
 mkdir -p ~/.config/alacritty/
-mv alacritty.toml ~/.config/alacritty/
+mv configs/alacritty.toml ~/.config/alacritty/

@@ -5,3 +5,4 @@
 ./shell.sh
 ./zapret.sh
 ./aur.sh
+./bin/sudo-no-passwd
